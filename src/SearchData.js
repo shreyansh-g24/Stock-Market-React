@@ -62,9 +62,9 @@ class SearchData extends React.Component {
   render() {
     return (
       <section>
-        <strong>Query:</strong> {JSON.stringify(this.props.query)}
+        Query: {JSON.stringify(this.props.query)}
 
-        <strong>Search Results: </strong>
+        Search Results: 
         {
           JSON.stringify(this.state.activeData)
         }
