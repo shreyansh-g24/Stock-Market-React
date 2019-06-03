@@ -1,0 +1,48 @@
+/* Styles */
+
+.margin-bottom {
+  margin-bottom: 30px;
+}
+
+.margin-center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.full-width {
+  display: block;
+  width: 100%;
+}
+
+.bold-text {
+  font-weight: 600;
+}
+
+.red-text {
+  color: rgba(255, 0, 0, 0.9);
+}
+
+.green-text {
+  color: rgba(0, 255, 0, 0.9);
+}
+
+.black-text {
+  color: #000;
+}
+
+.no-borders {
+  border: none;
+}
+
+.width-40vw {
+  width: 40vw;
+}
+
+.display-flex {
+  display: flex;
+  justify-content: space-between;
+}
